@@ -14,3 +14,4 @@ Source: http://cricsheet.org/ (data is available on this website in the YAML for
 [IPL Complete data till 2017](https://www.kaggle.com/datasets/oneplustricks/ipl-complete-data-till-2017)
 
 ## Architecture Diagram
+![Architecture Diagram](https://github.com/viraj473/Apache-spark-IPL-data-analysis/blob/main/Architecture.png?raw=true)
