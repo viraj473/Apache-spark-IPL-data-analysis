@@ -18,4 +18,4 @@ Source: http://cricsheet.org/ (data is available on this website in the YAML for
 
 
 ## Notebook Link
-![Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2571796696835569/2623988613253613/558343188337102/latest.html)
+[Notebook](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/2571796696835569/2623988613253613/558343188337102/latest.html)
